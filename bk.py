@@ -1,5 +1,3 @@
-#Path: /Users/nayana/Desktop/College/3rdSem/DSC/SelfStudy
-
 #Import modules
 
 import dict
@@ -326,9 +324,9 @@ if __name__ == "__main__":
     print("The BK-tree has been created.\n")
     
     while True:
-       print('\033[1m')
+
        print("DICTIONARY USING BK-TREES\n")
-       print('\033[0m')
+
        print("1: Insert a new word into the dictionary")
        print("2: Look up a word in the dictionary")
        print("3: Check whether the spelling of a given word is correct")
